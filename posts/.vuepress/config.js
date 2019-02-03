@@ -18,5 +18,6 @@ module.exports = {
   plugins: [
     '@vuepress/google-analytics',
     'permalink-pinyin',
+    ['sitemap', { hostname: 'https://ukn.me' }]
   ],
 }

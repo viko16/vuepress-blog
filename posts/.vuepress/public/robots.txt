@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /assets/
+Sitemap: https://ukn.me/sitemap.xml
