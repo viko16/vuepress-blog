@@ -1,13 +1,16 @@
 # vuepress-blog
 
-Source code of [My Personal Blog](https://ukn.me).
+Source Code of My Personal Blog. 👉  https://ukn.me
 
-这是我的个人博客源码，基于 VuePress + simple 主题。
+这是我个人博客的源码，基于 VuePress + simple 主题。
 
 - Powered By [VuePress](https://vuepress.vuejs.org/)
 - Theme using [vuepress-theme-simple](https://github.com/viko16/vuepress-theme-simple)
 - Plugins using
   - [vuepress-plugin-permalink-pinyin](https://github.com/viko16/vuepress-plugin-permalink-pinyin)
+- Automatically deploy to Netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fa2dc3b7-a18f-450f-ae5d-ab4aa78c7750/deploy-status)](https://app.netlify.com/sites/uknme/deploys)
 
 ## License
 
