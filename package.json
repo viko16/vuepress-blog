@@ -1,13 +1,14 @@
 {
   "name": "vuepress-blog",
   "version": "0.0.0",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "dev": "vuepress dev posts",
     "build": "vuepress build posts"
   },
   "devDependencies": {
     "vuepress": "^1.0.0-alpha.35",
-    "vuepress-theme-simple": "^0.1.1"
+    "vuepress-plugin-permalink-pinyin": "^0.2.0",
+    "vuepress-theme-simple": "^0.2.0"
   }
 }
