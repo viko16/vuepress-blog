@@ -13,6 +13,10 @@ module.exports = {
     ['meta', { name: 'keywords', content: 'Unknow Me, viko16, vuepress-theme-simple, 博客, vue' }],
     ['meta', { name: 'author', content: 'viko16' }],
   ],
+  ga: 'UA-50884174-3',
   theme: 'simple',
-  plugins: ['permalink-pinyin']
+  plugins: [
+    '@vuepress/google-analytics',
+    'permalink-pinyin',
+  ],
 }
