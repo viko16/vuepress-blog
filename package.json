@@ -9,11 +9,8 @@
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-alpha.35",
     "vuepress": "^1.0.0-alpha.35",
-    "vuepress-plugin-permalink-pinyin": "^0.2.0",
+    "vuepress-plugin-permalink-pinyin": "^1.0.0",
     "vuepress-plugin-sitemap": "^2.1.1",
-    "vuepress-theme-simple": "^0.2.0"
-  },
-  "resolutions": {
-    "terser": "3.14.1"
+    "vuepress-theme-simple": "^0.3.0"
   }
 }
