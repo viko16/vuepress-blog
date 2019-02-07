@@ -6982,10 +6982,10 @@ vuepress-plugin-sitemap@^2.1.1:
   dependencies:
     sitemap "^2.0.1"
 
-vuepress-theme-simple@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-simple/-/vuepress-theme-simple-0.3.0.tgz#21a94d295b59b4efbec7bede84aafa932a8ba0da"
-  integrity sha512-byOvIiB9g1RinKKmuxlR59mLrna7WIW/B8y/RbpydVaoTdbfGAuccsAAd8Pxe7+bu6c+CI8akkf/M/dStRo9zA==
+vuepress-theme-simple@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-simple/-/vuepress-theme-simple-0.4.0.tgz#aeab5f9cb0c6709bd33a73749430532deedef0ee"
+  integrity sha512-TBP1NwbIVE5jxTA1edobYHKcXmrLYd7+2z7iZbCdzOzSUfjgQWv4RCdyYJ6CpCmLM4wimQWfNHBJq5UtP/PpIg==
   dependencies:
     "@vuepress/plugin-last-updated" "^1.0.0-alpha.0"
     prismjs "^1.15.0"
