@@ -158,6 +158,6 @@ nvs 的优势
 
 ## 相关链接
 
-- https://github.com/jasongin/nvs/blob/master/doc/SETUP.md
-- https://github.com/xizhibei/blog/issues/38
+- <https://github.com/jasongin/nvs/blob/master/doc/SETUP.md>
+- <https://github.com/xizhibei/blog/issues/38>
 

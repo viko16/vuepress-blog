@@ -15,6 +15,9 @@ module.exports = {
   ],
   ga: 'UA-50884174-3',
   theme: 'simple',
+  themeConfig: {
+    author: 'viko16',
+  },
   plugins: [
     '@vuepress/google-analytics',
     'permalink-pinyin',
