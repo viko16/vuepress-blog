@@ -11,6 +11,6 @@
     "vuepress": "^1.2.0",
     "vuepress-plugin-permalink-pinyin": "^1.0.0",
     "vuepress-plugin-sitemap": "^2.1.2",
-    "vuepress-theme-simple": "^0.7.0"
+    "vuepress-theme-simple": "^1.0.0"
   }
 }
