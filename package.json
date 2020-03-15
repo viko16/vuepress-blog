@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "vuepress dev posts",
-    "build": "vuepress build posts"
+    "build": "vuepress build posts",
+    "add": "sh ./add.sh"
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.2.0",
