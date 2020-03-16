@@ -16,6 +16,7 @@ Vanilla CSS、Less/Sass/Stylus
 BEM
 
 - 通过规范来规避类名冲突
+- 样式都在一个层级，不用担心优先级的问题了，可以简化层叠规则
 - 但是不是强约束，还是要想名字，更累了
 
 Inline styles
@@ -74,6 +75,7 @@ Tailwind CSS
 
 ## 参考文章
 
-- <https://juejin.im/post/5b8373b2e51d4538e6332dbb>
-- <http://hkongm.github.io/2018/07/25/ReactStyleTypes/>
-- <https://zhuanlan.zhihu.com/p/26878157>
+- [CSS Modules 入门教程](https://juejin.im/post/5b8373b2e51d4538e6332dbb)
+- [React 组件样式方案对比-CSS Modules & Styled Components](http://hkongm.github.io/2018/07/25/ReactStyleTypes/)
+- [精读《请停止 css-in-js 的行为》](https://zhuanlan.zhihu.com/p/26878157)
+- [从 BEM 谈大型项目中 CSS 的组织和管理](https://www.ibm.com/developerworks/cn/web/1512_chengfu_bem/index.html)
