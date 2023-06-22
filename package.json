@@ -8,8 +8,8 @@
     "add": "sh ./add.sh"
   },
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.2.0",
     "vuepress": "^1.2.0",
+    "vuepress-plugin-google-analytics-4": "^0.1.1",
     "vuepress-plugin-permalink-pinyin": "^1.1.0",
     "vuepress-plugin-sitemap": "^2.1.2",
     "vuepress-theme-simple": "^1.0.0"

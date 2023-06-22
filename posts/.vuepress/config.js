@@ -10,13 +10,12 @@ module.exports = {
     ['meta', { name: 'keywords', content: 'Unknow Me, viko16, vuepress-theme-simple, 博客, vue' }],
     ['meta', { name: 'author', content: 'viko16' }],
   ],
-  ga: 'UA-50884174-3',
   theme: 'simple',
   themeConfig: {
     author: 'viko16',
   },
   plugins: [
-    '@vuepress/google-analytics',
+    ['google-analytics-4', { gtag: 'UA-50884174-3' }],
     'permalink-pinyin',
     ['sitemap', { hostname: 'https://ukn.me' }]
   ],
